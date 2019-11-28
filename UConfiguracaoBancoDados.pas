@@ -49,8 +49,8 @@ type
     BtnGravarConfiguracao: TcxButton;
     BtnTestarConexaoAmazon: TcxButton;
     BtnTestarConexaoAzure: TcxButton;
-    cxImage1: TcxImage;
-    cxImage2: TcxImage;
+    ImgLogoAzure: TcxImage;
+    ImgLogoAmazon: TcxImage;
     EdtBancoAzure: TcxTextEdit;
     cxLabel9: TcxLabel;
     EdtBancoAmazon: TcxTextEdit;

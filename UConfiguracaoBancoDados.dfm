@@ -21,7 +21,7 @@ object FrmConfiguracaoBancoDados: TFrmConfiguracaoBancoDados
   object GrpServidorA: TcxGroupBox
     Left = 8
     Top = 8
-    Caption = 'Conex'#227'o Servidor Amazon AWS'
+    Caption = 'Conex'#227'o Servidor AZURE'
     TabOrder = 0
     Height = 327
     Width = 329
@@ -82,7 +82,7 @@ object FrmConfiguracaoBancoDados: TFrmConfiguracaoBancoDados
       TabOrder = 5
       OnClick = BtnTestarConexaoAzureClick
     end
-    object cxImage1: TcxImage
+    object ImgLogoAzure: TcxImage
       Left = 4
       Top = 13
       Picture.Data = {
@@ -1079,7 +1079,7 @@ object FrmConfiguracaoBancoDados: TFrmConfiguracaoBancoDados
   object GrpServidorB: TcxGroupBox
     Left = 343
     Top = 8
-    Caption = 'Conex'#227'o Servidor Azure'
+    Caption = 'Conex'#227'o Servidor Amazon AWS'
     TabOrder = 1
     Height = 327
     Width = 329
@@ -1141,7 +1141,7 @@ object FrmConfiguracaoBancoDados: TFrmConfiguracaoBancoDados
       TabOrder = 5
       OnClick = BtnTestarConexaoAmazonClick
     end
-    object cxImage2: TcxImage
+    object ImgLogoAmazon: TcxImage
       Left = 0
       Top = 17
       Picture.Data = {
