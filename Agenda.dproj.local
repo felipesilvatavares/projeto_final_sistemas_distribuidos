@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/24 15:53:03.000.826,=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/27 14:11:08.000.132,=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/27 14:16:51.000.693,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UPrincipal.dfm</Transaction>
+    <Transaction>2019/11/27 14:16:51.000.693,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UPrincipal.pas</Transaction>
+    <Transaction>2019/11/27 14:16:57.000.392,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Agenda.dproj</Transaction>
+    <Transaction>2019/11/27 14:17:27.000.132,=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit2.pas</Transaction>
+    <Transaction>2019/11/27 14:17:37.000.443,C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit2.pas=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UConfiguracaoBancoDados.pas</Transaction>
+    <Transaction>2019/11/27 14:17:37.000.443,C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit2.dfm=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UConfiguracaoBancoDados.dfm</Transaction>
+    <Transaction>2019/11/27 15:39:37.000.677,=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/11/27 15:54:46.000.529,C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.pas=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UDao.pas</Transaction>
+    <Transaction>2019/11/27 16:46:19.900,=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/11/27 16:46:32.606,C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UInicial.pas=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/11/27 16:46:32.606,C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UInicial.dfm=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.dfm</Transaction>
+    <Transaction>2019/11/27 16:49:53.504,C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UPrincipal.pas=</Transaction>
+    <Transaction>2019/11/27 17:52:27.287,=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/11/27 17:52:35.894,C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UParametrosBanco.pas=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/11/27 18:07:59.202,=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/11/27 18:08:11.565,C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UDm.dfm=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.dfm</Transaction>
+    <Transaction>2019/11/27 18:08:11.565,C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UDm.pas=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/11/27 19:36:40.775,=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/11/27 19:36:56.079,C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\UCadastroAgenda.pas=C:\Users\Felipe\Desktop\Projeto Final Sistemas Distribuido\Agenda\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
